@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 from sklearn import svm
 import numpy as np
 from sklearn.svm import SVR
