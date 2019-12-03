@@ -16,5 +16,5 @@ for k in words:
     else:
         print(k, ' not in vocab')
 similar_words = pd.DataFrame(df)
-simiar_words
+similar_words
 #table.to_csv('similar_words')
