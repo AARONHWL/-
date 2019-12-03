@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 import gensim
 import pandas as pd
 
@@ -20,4 +17,4 @@ for k in words:
         print(k, ' not in vocab')
 similar_words = pd.DataFrame(df)
 simiar_words
-
+#table.to_csv('similar_words')
