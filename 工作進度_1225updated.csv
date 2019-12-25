@@ -1,0 +1,16 @@
+填寫日期,姓名,工作項目,工作完成目標,工作完成現況,下周預計完成工作
+11.25,吳培瑜,爬蟲 用selenium爬CNBC中market和finance和amazon相關的新聞標題,code完成,寫完大概的code,研究如何爬更久遠以前的資料 
+11.25,陳毅芸,清洗資料、存放資料,安裝mongoDB,了解mongoDB操作,匯入資料
+11.25,溫舜元,使用word2vec套件將文字轉向量，並計算頻率權重,code完成,寫完大概的code可以將個別語句轉向量,"了解n-gram, skip-gram之間的差別，了解如何訓練模型，計算頻率權重"
+11.25,黃偉倫,看paper如何利用SVR技巧去把量化資料做成VIX,code完成,讀完paper,將paper用svr實作
+12/2,黃偉倫,看paper如何利用SVR技巧去把量化資料做成VIX,code完成,初步code完成,將實際資料帶入code測試
+12.2,溫舜元,使用word2vec套件將文字轉向量，並計算頻率權重,code完成,初步code完成,清洗CNBC爬蟲的資料並計算出字詞出現頻率
+12.2,陳毅芸,清洗資料、存放資料,安裝mongoDB,寫好初步code,儲存VIX資料
+12.2,吳培瑜,爬蟲 用selenium爬CNBC中market和finance和amazon相關的新聞標題,code完成,爬完cnbc從2007至今所有新聞標題及內文,研究如何爬amazon相關更久遠以前的新聞
+12.9,溫舜元,清洗CNBC爬蟲的資料並計算出字詞出現頻率,code完成,完成code並使用ngram挑選字詞以計算出頻率表,工作內容完成
+12.9,黃偉倫,看paper如何利用SVR技巧去把量化資料做成VIX,code完成,調整、篩選資料,美化資料訓練模型的成果與檢查細節問題
+12.16,黃偉倫,看paper如何利用SVR技巧去把量化資料做成VIX,code完成,模型結果符合預期,完成書面報告與影片
+12.23,黃偉倫,看paper如何利用SVR技巧去把量化資料做成VIX,code完成,全部完成,全部完成
+12.9,吳培瑜,爬蟲 用selenium爬CNBC中market和finance相關的新聞標題,code完成,更快速的爬完cnbc從2007至今所有新聞標題,完成書面報告與影片
+12.16,陳毅芸,清洗資料、存放資料,code完成,匯入VIX month data.csv檔,匯入爬蟲抓取的標題
+12.23,陳毅芸,清洗資料、存放資料,code完成,將爬蟲標題轉成csv匯入mongoDB,完成書面報告及影片
